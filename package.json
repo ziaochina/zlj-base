@@ -1,0 +1,36 @@
+{
+  "isMKPresetApp": true,
+  "name": "zlj-component",
+  "description": "zlj-component",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "",
+  "keywords": [
+    "mk",
+    "monkey king",
+    "react",
+    "redux",
+    "mk-js",
+    "mk-command",
+    "zlj-component"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ziaochina/zlj-component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ziaochina/zlj-component/issues"
+  },
+  "homepage": "https://github.com/ziaochina/zlj-component#readme",
+  "scripts": {
+    "start": "mk start",
+    "build": "mk build",
+    "pkg": "mk pkg"
+  },
+  "dependencies": {
+    "antd": "^3.9.2",
+    "fixed-data-table-2": "0.8.15",
+    "mk-command": "*",
+    "mk-rc-select": "1.0.7"
+  }
+}
